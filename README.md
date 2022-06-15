@@ -43,7 +43,7 @@ Install dependencies:
 composer install
 ```
 
-## Configration
+## Configuration
 
 Create .env file:
 ```bash
