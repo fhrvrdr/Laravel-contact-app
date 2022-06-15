@@ -24,7 +24,7 @@ Tech:
 ### Requires
 
 
-- PHP 8+
+- PHP ^7.3
 - MySql / MariaDB
 - Apache
 - Composer
