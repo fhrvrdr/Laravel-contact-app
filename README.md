@@ -15,7 +15,7 @@ Tech:
 * [Requires](#requires)
 * [Installation](#installation)
 * [Configuration](#configuration)
-* [Copyright and License](#copyright-and-license)
+
 
 
 
