@@ -15,7 +15,7 @@ Tech:
 * [Requires](#requires)
 * [Installation](#installation)
 * [Configuration](#configuration)
-* [Run Locally](#runlocally)
+* [Run Locally](#run locally)
 
 
 
